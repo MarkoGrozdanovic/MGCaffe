@@ -1,0 +1,75 @@
+Mar 29, 2022 3:49:46 PM Server.Server formWindowClosing
+FINEST: 2022-03-29 15:36:34.033 ------ Server startovan!!!
+
+[2022-03-29 15:36:34.033] ------ Korisnik pokušava da se uloguje!!!
+[2022-03-29 15:36:34.033] ------ Zaposleni NIKOLA SE ULOGOVAO/LA! 
+
+[2022-03-29 15:36:34.033] ------ [nikola] Uspešno ste prijavili dolazak u 2022-03-29 15:39:20.375
+[2022-03-29 15:36:34.033] ------ Zaposleni NIKOLA SE IZLOGOVAO/LA!
+
+[2022-03-29 15:36:34.033] ------ Korisnik pokušava da se uloguje!!!
+[2022-03-29 15:36:34.033] ------ Zaposleni NIKOLA SE ULOGOVAO/LA! 
+
+[2022-03-29 15:36:34.033] ------ [NIKOLA] Uspešno ste uneli novu stavku narudzbenice!!!Stavka narudzbenice{id=55, id_pica=4,vreme=2022-03-29 15:41:42.928, kolicina=3}
+[2022-03-29 15:36:34.033] ------ [NIKOLA] Uspešno ste uneli novu stavku narudzbenice!!!Stavka narudzbenice{id=55, id_pica=7,vreme=2022-03-29 15:41:42.928, kolicina=2}
+[2022-03-29 15:36:34.033] ------ [NIKOLA] Uspešno ste uneli novu stavku narudzbenice!!!Stavka narudzbenice{id=55, id_pica=11,vreme=2022-03-29 15:41:42.928, kolicina=1}
+[2022-03-29 15:36:34.033] ------ [NIKOLA] Uspešno ste uneli novu stavku narudzbenice!!!Stavka narudzbenice{id=56, id_pica=7,vreme=2022-03-29 15:43:38.817, kolicina=2}
+[2022-03-29 15:36:34.033] ------ [NIKOLA] Uspešno ste uneli novu stavku narudzbenice!!!Stavka narudzbenice{id=56, id_pica=8,vreme=2022-03-29 15:43:38.817, kolicina=1}
+[2022-03-29 15:36:34.033] ------ [NIKOLA] Uspešno ste uneli novu stavku narudzbenice!!!Stavka narudzbenice{id=56, id_pica=3,vreme=2022-03-29 15:43:38.817, kolicina=4}
+[2022-03-29 15:36:34.033] ------ [NIKOLA] Uspešno ste naplatili uslugu!!!Korisnici{Id_stavke_narudzbenice=56, id_zaposlenog=2, Ukupna cena: 1080}
+[2022-03-29 15:36:34.033] ------ [NIKOLA] Uspešno ste naplatili uslugu!!!Korisnici{Id_stavke_narudzbenice=55, id_zaposlenog=2, Ukupna cena: 1000}
+[2022-03-29 15:36:34.033] ------ [nikola] Uspešno ste se odjavili u 2022-03-29 15:44:33.119, i Vaš pazar iznosi: 2080
+[2022-03-29 15:36:34.033] ------ Korisnik pokušava da se uloguje!!!
+[2022-03-29 15:36:34.033] ------ Zaposleni MARKO SE ULOGOVAO/LA! 
+
+[2022-03-29 15:36:34.033] ------ [MARKO] Uspešno ste dodali novo piće: Caj ;Cena: 80 ;Raspoloživost: 50
+[2022-03-29 15:36:34.033] ------ [MARKO] Uspešno ste izbrisali piće: CAJ
+[2022-03-29 15:36:34.033] ------ [MARKO] Uspešno ste dodali novo piće: Mleko ;Cena: 80 ;Raspoloživost: 50
+[2022-03-29 15:36:34.033] ------ [MARKO] Uspešno ste ažurirali piće!!!  Novo ime pica: Mleko
+[2022-03-29 15:36:34.033] ------ [marko] Piću 'Mleko' je upravo postavljena nova raspoloživost-47
+[2022-03-29 15:36:34.033] ------ [marko] Svakom piću je postavljena nova raspoloživost! Raspoloživost-50
+[2022-03-29 15:36:34.033] ------ [marko] Svakom piću je postavljena nova raspoloživost! Raspoloživost-51
+[2022-03-29 15:36:34.033] ------ [MARKO] Uspešno ste dodali novo piće: Caj ;Cena: 100 ;Raspoloživost: 50
+[2022-03-29 15:36:34.033] ------ [MARKO] Uspešno ste izbrisali piće: CAJ
+
+=============================================================================
+
+Mar 29, 2022 4:01:50 PM Server.Server formWindowClosing
+FINEST: 2022-03-29 15:52:38.364 ------ Server startovan!!!
+
+[2022-03-29 15:52:38.364] ------ Korisnik pokušava da se uloguje!!!
+[2022-03-29 15:52:38.364] ------ Zaposleni MARKO SE ULOGOVAO/LA! 
+
+[2022-03-29 15:52:38.364] ------ [MARKO] Uspešno ste izbrisali piće: MLEKO
+[2022-03-29 15:52:38.364] ------ [MARKO] Uspešno ste dodali novo piće: Mleko ;Cena: 100 ;Raspoloživost: 40
+[2022-03-29 15:52:38.364] ------ [MARKO] Uspešno ste ažurirali piće!!!  Novo ime pica: Mleko
+[2022-03-29 15:52:38.364] ------ [MARKO] Uspešno ste ažurirali piće!!!  Novo ime pica: Caj
+[2022-03-29 15:52:38.364] ------ Korisnik pokušava da se uloguje!!!
+[2022-03-29 15:52:38.364] ------ Zaposleni MARKO SE ULOGOVAO/LA! 
+
+[2022-03-29 15:52:38.364] ------ [MARKO] Uspešno ste dodali novog zaposlenog!!!/nZaposleniJOIN{id=4, username=ana, password=stamen, advanced_privilages=1, pincode=1234, sektor=B, ime=Ana, prezime=Stamenkovic, jmbg=1234567890123, telefon=064/923-8456}
+[2022-03-29 15:52:38.364] ------ [MARKO] Uspešno ste promenili privilegiju zaposlenog!!!
+[2022-03-29 15:52:38.364] ------ Uspešno ste postavili pinkod zaposlenog!!!
+[2022-03-29 15:52:38.364] ------ [MARKO] Uspešno ste promenili privilegiju zaposlenog!!!
+[2022-03-29 15:52:38.364] ------ Uspešno ste postavili pinkod zaposlenog!!!
+[2022-03-29 15:52:38.364] ------ [MARKO] Uspešno ste promenili pinkod zaposlenog!!!
+[2022-03-29 15:52:38.364] ------ [MARKO] Uspešno ste promenili privilegiju zaposlenog!!!
+[2022-03-29 15:52:38.364] ------ Uspešno ste postavili pinkod zaposlenog!!!
+[2022-03-29 15:52:38.364] ------ [MARKO] Uspešno ste dodali novog zaposlenog!!!/nZaposleniJOIN{id=5, username=luka, password=matke, advanced_privilages=0, pincode=, sektor=A, ime=Luka, prezime=Matijevic, jmbg=4312567890987, telefon=064/932-2345}
+
+=============================================================================
+
+Mar 29, 2022 4:04:57 PM Server.Server formWindowClosing
+FINEST: 2022-03-29 16:02:13.625 ------ Server startovan!!!
+
+[2022-03-29 16:02:13.625] ------ Korisnik pokušava da se uloguje!!!
+[2022-03-29 16:02:13.625] ------ Zaposleni MARKO SE ULOGOVAO/LA! 
+
+[2022-03-29 16:02:13.625] ------ [marko] Uspešno ste prijavili dolazak u 2022-03-29 16:03:14.154
+[2022-03-29 16:02:13.625] ------ [marko] Uspešno ste se odjavili u 2022-03-29 16:03:18.834, i Vaš pazar iznosi: 0
+[2022-03-29 16:02:13.625] ------ Korisnik pokušava da se uloguje!!!
+[2022-03-29 16:02:13.625] ------ Zaposleni MARKO SE ULOGOVAO/LA! 
+
+
+=============================================================================
+
