@@ -23,7 +23,9 @@ Projekat sadrzi:
 
 -U ovom projektu sam razvio aplikaciju koju bi koristili zaposleni i menadzeri/vlasnik u kaficu/kafeteriji . Radi realizacije projekta napravio sam zamisljeni kafic "MGCaffe". za koji sam razvijao aplikaciju.
 
-Pri pokretanju same aplikacije korisnik se mora ulogovati i postoje 2 opcije:
+Pri pokretanju same aplikacije moramo prvo pokrenuti serverski deo aplikacije(server.java).Nakon startovanja servera pokrecemo klijentski deo aplikacije (main.java).
+
+Korisnik se mora ulogovati i postoje 2 opcije:
 
 1.Korisnik se loguje kao menadzer/vlasnik(admin,mora uneti pinkod)
 
